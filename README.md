@@ -14,7 +14,7 @@ Installing NPM modules on both client and server folders
 Execute these commands from the project  Both Frontend and Backend directory
 
 ```
-npm i
+npm install
 ```
 
 
